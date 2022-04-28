@@ -45,7 +45,7 @@ def open_file():
 
 
 root = Tk()
-root.title("Lab №3")
+root.title("Lab №2")
 root.resizable(width=False, height=False)
 root.geometry("400x220+550+300")
 label = Label(root, text='Input something↴').grid(row=2, column=1)
